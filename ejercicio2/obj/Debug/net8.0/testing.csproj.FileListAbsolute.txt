@@ -1,0 +1,64 @@
+C:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\testing.csproj.AssemblyReference.cache
+C:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\testing.AssemblyInfoInputs.cache
+C:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\testing.AssemblyInfo.cs
+C:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\testing.csproj.CoreCompileInputs.cache
+C:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\testing.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\testing.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\joaquin\Desktop\ejercicio2\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\joaquin\Desktop\ejercicio2\bin\Debug\net8.0\appsettings.json
+c:\Users\joaquin\Desktop\ejercicio2\bin\Debug\net8.0\testing.exe
+c:\Users\joaquin\Desktop\ejercicio2\bin\Debug\net8.0\testing.deps.json
+c:\Users\joaquin\Desktop\ejercicio2\bin\Debug\net8.0\testing.runtimeconfig.json
+c:\Users\joaquin\Desktop\ejercicio2\bin\Debug\net8.0\testing.dll
+c:\Users\joaquin\Desktop\ejercicio2\bin\Debug\net8.0\testing.pdb
+c:\Users\joaquin\Desktop\ejercicio2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\joaquin\Desktop\ejercicio2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\joaquin\Desktop\ejercicio2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\joaquin\Desktop\ejercicio2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\staticwebassets\msbuild.testing.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\staticwebassets\msbuild.build.testing.props
+c:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.testing.props
+c:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.testing.props
+c:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\scopedcss\bundle\testing.styles.css
+c:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\testing.csproj.Up2Date
+c:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\testing.dll
+c:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\refint\testing.dll
+c:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\testing.pdb
+c:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\testing.genruntimeconfig.cache
+c:\Users\joaquin\Desktop\ejercicio2\obj\Debug\net8.0\ref\testing.dll
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\bin\Debug\net8.0\appsettings.json
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\bin\Debug\net8.0\testing.exe
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\bin\Debug\net8.0\testing.deps.json
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\bin\Debug\net8.0\testing.runtimeconfig.json
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\bin\Debug\net8.0\testing.dll
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\bin\Debug\net8.0\testing.pdb
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\testing.csproj.AssemblyReference.cache
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\testing.AssemblyInfoInputs.cache
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\testing.AssemblyInfo.cs
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\testing.csproj.CoreCompileInputs.cache
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\testing.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\testing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\staticwebassets\msbuild.testing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\staticwebassets\msbuild.build.testing.props
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.testing.props
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.testing.props
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\scopedcss\bundle\testing.styles.css
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\testing.csproj.Up2Date
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\testing.dll
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\refint\testing.dll
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\testing.pdb
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\testing.genruntimeconfig.cache
+C:\Users\joaquin\Desktop\tpCRUD - Olmedo\ejercicio2\obj\Debug\net8.0\ref\testing.dll
